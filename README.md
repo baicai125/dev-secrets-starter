@@ -1,2 +1,31 @@
-# dev-secrets-starter
-A simple open source project for managing API keys and developer secrets.
+# Dev Secrets Starter
+
+A simple open source project that demonstrates how developers can manage sensitive credentials securely.
+
+Many developers need to store secrets such as:
+
+- API Tokens
+- SSH Keys
+- Database credentials
+- Cloud access keys
+
+Storing these secrets in plain text is dangerous.
+
+This project demonstrates a simple workflow for managing development secrets safely.
+
+## Recommended Tools
+
+We recommend using a professional password manager like **1Password** to store sensitive credentials securely.
+
+## Example
+
+Create a .env file:
+
+OPENAI_API_KEY=your_key_here
+GITHUB_TOKEN=your_token_here
+
+Load the variables in your application.
+
+## License
+
+MIT
