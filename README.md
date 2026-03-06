@@ -37,3 +37,17 @@ This project demonstrates a simple approach for developers to manage sensitive c
 Sensitive information such as API keys, SSH keys, and database passwords should never be committed to source code repositories.
 
 Using a secure password manager such as 1Password is strongly recommended.
+
+## Usage
+
+1. Copy the example file
+
+cp .env.example .env
+
+2. Add your API keys
+
+OPENAI_API_KEY=your_api_key_here
+
+3. Run the example script
+
+python secrets.py
