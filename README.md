@@ -29,3 +29,11 @@ Load the variables in your application.
 ## License
 
 MIT
+
+## Project Goal
+
+This project demonstrates a simple approach for developers to manage sensitive credentials during development.
+
+Sensitive information such as API keys, SSH keys, and database passwords should never be committed to source code repositories.
+
+Using a secure password manager such as 1Password is strongly recommended.
