@@ -53,3 +53,10 @@ OPENAI_API_KEY=your_api_key_here
 python secrets.py
 
 This repository is a simple demonstration project for secure secret management in open source development.
+
+## Roadmap
+
+Future improvements may include:
+- CLI tools for secret management
+- Integration examples for popular frameworks
+- Documentation improvements
