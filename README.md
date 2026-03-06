@@ -51,3 +51,5 @@ OPENAI_API_KEY=your_api_key_here
 3. Run the example script
 
 python secrets.py
+
+This repository is a simple demonstration project for secure secret management in open source development.
